@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuvapriya-subramaniam
-- 👀 I’m interested in Python and data visualization
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in learning new technologies and update my skills
+- 🌱 I’m currently learning MERN full-stack development
 - 📫 How to reach me - email to yuvaps.subramaniam@gmail.com
 
 <!---
