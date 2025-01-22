@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuvapriya-subramaniam
-- 👀 I’m interested in learning new technologies and update my skills
+- 👀 I’m interested in learning new technologies and a problem solver
 - 🌱 I’m an aspiring full-stack developer (MERN)
 - 📫 How to reach me - email to yuvaps.subramaniam@gmail.com
 
